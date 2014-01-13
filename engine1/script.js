@@ -33,4 +33,4 @@ function ws_squares(c,a,b){var g=jQuery;var e=b.find("ul").get(0);e.id="wowslide
 // Obfuscated by Javascript Obfuscator
 // http://javascript-source.com
 //***********************************************
-jQuery("#wowslider-container1").wowSlider({effect:"squares",prev:"",next:"",duration:20*100,delay:20*100,width:400,height:400,autoPlay:true,playPause:true,stopOnHover:false,loop:false,bullets:true,caption:true,captionEffect:"slide",controls:true,onBeforeStep:0,images:0});
+jQuery("#wowslider-container1").wowSlider({effect:"squares",prev:"",next:"",duration:20*100,delay:40*100,width:400,height:300,autoPlay:true,playPause:true,stopOnHover:false,loop:false,bullets:true,caption:true,captionEffect:"slide",controls:true,onBeforeStep:0,images:0});
