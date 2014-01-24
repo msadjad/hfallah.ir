@@ -9,12 +9,12 @@ body {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 12px;
 	color: #666;
-	background: #008A00;
+	background: #23BE84;
 }
 
 nav ul li:hover > ul {
 	color: #bbd142;
-	background-color: #008A00;
+	background-color: #23BE84;
 	text-decoration: none;
 	display: block;
 }
@@ -25,19 +25,19 @@ nav ul {
 	display: block;
 	text-align: right;
 	text-decoration: none;
-	background-color: #60A917; 
+	background-color: #0A754C;
 	border-radius: 10px;
-				
+
 	font-size: 15px;
 	font-family: tahoma;
 	height: 5px;
 	font-weight: bold;
-	background: #60A917; 
-	
-	box-shadow: inset 0 50px rgba(255,255,255,0.2), 
+	background: #0A754C;
+
+	box-shadow: inset 0 50px rgba(255,255,255,0.2),
 				inset 0 -15px 30px rgba(0,0,0,0.4),
                 0 5px 10px rgba(0,0,0,0.5);
-	border-radius: 10px;  
+	border-radius: 10px;
 	list-style: none;
 	position: relative;
 	display: inline-table;
@@ -45,15 +45,15 @@ nav ul {
 
 nav ul ul {
 	display: none;
-	background: #5f6975; 
-	border-radius: 0px; 
+	background: #5f6975;
+	border-radius: 0px;
 	padding: 0;
-	position: absolute; 
+	position: absolute;
 	top: 100%;
 	margin-top: 0px;
 }
 nav ul ul li {
-	float: right; 
+	float: right;
 	font-size: 12px;
 	border-top: 1px solid #6b727c;
 	border-bottom: 1px solid #575f6a;
@@ -67,9 +67,9 @@ nav ul ul li {
 }
 nav ul ul li a {
 	color: #FFFFFF;
-}	
+}
 nav ul ul li a:hover {
-	
+
 	color: #bbd142;
 	background-color: #6b727c;
 	text-decoration: none;
@@ -84,9 +84,9 @@ nav ul li {
 }
 
 nav ul li:hover {
-	
+
 	color: #bbd142;
-	background-color: #008A00;
+	background-color: #23BE84;
 	text-decoration: none;
 	background: linear-gradient(top, #4f5964 0%, #5f6975 40%);
 	background: -moz-linear-gradient(top, #4f5964 0%, #5f6975 40%);
@@ -94,7 +94,7 @@ nav ul li:hover {
 }
 	nav ul li:hover a {
 		color: #bbd142;
-		background-color: #008A00;
+		background-color: #23BE84;
 		text-decoration: none;
 		border-color: #000000;
 		border-top-style: solid;
@@ -130,7 +130,7 @@ nav ul li a {
 .marquee_right b{
     color: #00ff00;
 }
-a:link, a:visited { text-decoration: none; font-weight: normal;} 
+a:link, a:visited { text-decoration: none; font-weight: normal;}
 a:active, a:hover { text-decoration: none;}
 
 p {
@@ -168,8 +168,8 @@ img {
 	height: 23px;
 	padding-top: 5px;
 	background: url(images/templatemo_button_01.png) no-repeat;
-	
-	
+
+
 	color: #000;
 	font-size: 13px;
 	font-weight: bold;
@@ -183,7 +183,7 @@ img {
 	padding-bottom: 10px;
 	margin-bottom: 10px;
 	font-size: 32px;
-	line-height: 40px;	
+	line-height: 40px;
 	color: #ffffff;
 }
 
@@ -198,11 +198,11 @@ img {
 	font-size: 18px;
 	font-weight: bold;
 	background: url(images/templatemo_header_01_bg.jpg) left bottom no-repeat;
-	background-position: -70px 30px;	
-	
+	background-position: -70px 30px;
+
 	color: #ffffff;
 	text-shadow:
-	-1px 	-1px	0 #000,  
+	-1px 	-1px	0 #000,
 	1px 	-1px 	0 #000,
 	-1px 	1px 	0 #000,
 	1px 	1px		0 #000;
@@ -222,12 +222,13 @@ img {
 	margin-bottom: 15px;
 	font-size: 22px;
 	font-weight: bold;
+    background-position: center;
 	background: url(images/templatemo_header_01_bg2.jpg) left bottom no-repeat;
-	background-position: -70px 30px;	
-	
+	background-position: -70px 30px;
+
 	color: #ffffff;
 	text-shadow:
-	-1px 	-1px	0 #000,  
+	-1px 	-1px	0 #000,
 	1px 	-1px 	0 #000,
 	-1px 	1px 	0 #000,
 	1px 	1px		0 #000;
@@ -276,7 +277,7 @@ img {
 	width: 100%;
 	height: 90px;
 	margin: 0 auto;
-	background: #008A00 url(images/templatemo_header_bg1.jpg) repeat-x;
+	background: #23BE84 url(images/templatemo_header_bg1.jpg) repeat-x;
 }
 
 .rightMenu  a:link,
@@ -293,9 +294,9 @@ img {
 	font-size: 15px;
 	font-family: b nazanin, tahoma;
 	text-decoration: none;
-	background-color: #60A917; 
+	background-color: #0A754C;
 	border-radius: 10px;
-	box-shadow: inset 0 50px rgba(255,255,255,0.2), 
+	box-shadow: inset 0 50px rgba(255,255,255,0.2),
 				inset 0 -15px 30px rgba(0,0,0,0.4),
                 0 5px 10px rgba(0,0,0,0.5);
 }
@@ -314,9 +315,9 @@ img {
 	font-size: 15px;
 	font-family: b nazanin, tahoma;
 	text-decoration: none;
-	background-color: #60A917; 
+	background-color: #0A754C;
 	border-radius: 10px;
-	box-shadow: inset 0 50px rgba(255,255,255,0.2), 
+	box-shadow: inset 0 50px rgba(255,255,255,0.2),
 				inset 0 -15px 30px rgba(0,0,0,0.4),
                 0 5px 10px rgba(0,0,0,0.5);
 }
@@ -336,27 +337,27 @@ img {
 	font-size: 10px;
 	font-family: b nazanin, tahoma;
 	text-decoration: none;
-	background-color: #60A917; 
+	background-color: #0A754C;
 	border-radius: 10px;
-	box-shadow: inset 0 50px rgba(255,255,255,0.2), 
+	box-shadow: inset 0 50px rgba(255,255,255,0.2),
 				inset 0 -15px 30px rgba(0,0,0,0.4),
                 0 5px 10px rgba(0,0,0,0.5);
 }
 
 .rightMenu a:hover, .rightMenuSelected a:hover{
 	color: #bbd142;
-	background-color: #008A00; 
+	background-color: #23BE84;
 }
 
 .rightSubMenu a:hover, .rightSubMenuSelected a:hover{
 	color: #bbd142;
-	background-color: #008A00; 
+	background-color: #23BE84;
 }
 
 #templatemo_header {
 	width: 980px;
 	margin: 0 auto;
-	background: #008A00
+	background: #23BE84
 }
 
 #templatemo_header #site_logo {
@@ -365,7 +366,7 @@ img {
 	height: 84px;
 	font-size: 40px;
 	color: #ffffff;
-	background: #008A00 url(images/templatemo_logo.jpg) no-repeat;
+	background: #23BE84 url(images/templatemo_logo.jpg) no-repeat;
 }
 
 /* menu */
@@ -409,7 +410,7 @@ img {
 	text-align: center;
 	font-size: 14px;
 	text-decoration: none;
-	color: #919191;	
+	color: #919191;
 	font-weight: normal;
 	outline: none;
 }
@@ -436,7 +437,7 @@ img {
 	width: 100%;
 	height: 320px;
 	margin: 0 auto;
-	background: #60A917
+	background: #0A754C
 }
 
 #templatemo_banner {
@@ -444,7 +445,7 @@ img {
 	height: 120px;
 	margin: 0 auto;
 	padding: 10px 40px 10px 40px;
-	background: #60A917
+	background: #0A754C
 }
 
 #templatemo_banner #templatemo_banner_image {
@@ -493,7 +494,7 @@ img {
 #templatemo_content {
 	width: 900px;
 	padding: 10px 40px;
-	background: #008A00;
+	background: #23BE84;
 }
 
 
@@ -501,7 +502,7 @@ img {
 	float: right;
 	width: 460px;
 	line-height: 20px;
-	background: #008A00;
+	background: #23BE84;
 }
 
 #column_w300 {
@@ -546,17 +547,13 @@ img {
 }
 
 .content_section_012 {
-	border-left: 10px solid #ffffff;
+	border-left: 10px solid #398A6B;
 	padding-right: 20px;
+    margin-left: 3px;
 	direction: rtl;
 	font-family: b nazanin, tahoma;
     font-size: 18px;
 	color: #ffffff;
-	text-shadow:
-	-1px 	-1px	0 #000,  
-	1px 	-1px 	0 #000,
-	-1px 	1px 	0 #000,
-	1px 	1px		0 #000;
 }
 
 .content_section_012 ul {
@@ -645,16 +642,22 @@ img {
 	padding: 30px;
 	margin: auto 0;
 	direction: rtl;
-	color: #008A00;
+	color: #ffffff;
 	direction: rtl;
 	font-weight: bold;
 	font-family: b nazanin, tahoma;
 	font-size: 15px;
+    color: #ffffff;
+    text-shadow:
+    -1px -1px   0 #000,
+    1px -1px    0 #000,
+    -1px 1px    0 #000,
+    1px 1px	    0 #000;
 }
 
 #templatemo_footer a{
 	text-decoration: none;
-	color: #008A00;
+	color: #00ff00;
 }
 
 .section_w180 {

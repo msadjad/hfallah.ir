@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="ae03e2a1-2518-4a3b-ad58-2155159e9e3b" time="1389023001640" ignored="false" />
     <file path="$PROJECT_DIR$/engine1/style.css" changelist="ae03e2a1-2518-4a3b-ad58-2155159e9e3b" time="1387608657600" ignored="false" />
-    <file path="/templatemo_style.css" changelist="ae03e2a1-2518-4a3b-ad58-2155159e9e3b" time="1389021273824" ignored="false" />
+    <file path="/templatemo_style.css" changelist="ae03e2a1-2518-4a3b-ad58-2155159e9e3b" time="1390580288263" ignored="false" />
     <file path="/dummy.xml" changelist="ae03e2a1-2518-4a3b-ad58-2155159e9e3b" time="1388681950401" ignored="false" />
     <file path="/computer_and_data_management.html" changelist="ae03e2a1-2518-4a3b-ad58-2155159e9e3b" time="1389022680875" ignored="false" />
     <file path="/contact_us.html" changelist="ae03e2a1-2518-4a3b-ad58-2155159e9e3b" time="1389022694430" ignored="false" />
@@ -32,66 +32,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="25" selection-start="0" selection-end="15228" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resume.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resume.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="537" column="0" selection-start="9721" selection-end="9721" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theory_of_information_systems.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theory_of_information_systems.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="149" column="61" selection-start="8415" selection-end="8415" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="computer_and_data_management.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/computer_and_data_management.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="46" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact_us.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact_us.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="47" selection-start="0" selection-end="10454" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ea_documnets.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ea_documnets.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="46" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="templatemo_style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="templatemo_style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templatemo_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="586" column="17" selection-start="10847" selection-end="10852" vertical-scroll-proportion="0.0">
+            <state line="555" column="19" selection-start="10280" selection-end="10280" vertical-scroll-proportion="0.6728972">
               <folding />
             </state>
           </provider>
@@ -107,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/templatemo_style.css" />
         <option value="$PROJECT_DIR$/courses.html" />
         <option value="$PROJECT_DIR$/computer_and_data_management.html" />
         <option value="$PROJECT_DIR$/contact_us.html" />
@@ -115,14 +58,15 @@
         <option value="$PROJECT_DIR$/theory_of_information_systems.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resume.html" />
+        <option value="$PROJECT_DIR$/templatemo_style.css" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1358" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1040" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -139,7 +83,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -150,7 +94,29 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hfallah.ir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -158,8 +124,8 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../bootstrap learning/bootstrap-3.0.3/dist" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
@@ -198,14 +164,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="1358" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18863636" sideWeight="0.67064846" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2586912" sideWeight="0.67064846" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -344,54 +310,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templatemo_style.css">
+    <entry file="file://$PROJECT_DIR$/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="586" column="17" selection-start="10847" selection-end="10852" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ea_documnets.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="46" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="543" column="10" selection-start="9842" selection-end="9842" vertical-scroll-proportion="0.4950495">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/theory_of_information_systems.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="149" column="61" selection-start="8415" selection-end="8415" vertical-scroll-proportion="0.0">
+        <state line="149" column="61" selection-start="8415" selection-end="8415" vertical-scroll-proportion="5.0831685">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/computer_and_data_management.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="46" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact_us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="47" selection-start="0" selection-end="10454" vertical-scroll-proportion="0.0">
+        <state line="31" column="46" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.5940594">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="25" selection-start="0" selection-end="15228" vertical-scroll-proportion="0.0">
+        <state line="40" column="25" selection-start="0" selection-end="15228" vertical-scroll-proportion="0.8403042">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume.html">
+    <entry file="file://$PROJECT_DIR$/contact_us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="537" column="0" selection-start="9721" selection-end="9721" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="36" column="47" selection-start="0" selection-end="10454" vertical-scroll-proportion="0.71292776">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ea_documnets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="46" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.5703422">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templatemo_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="555" column="19" selection-start="10280" selection-end="10280" vertical-scroll-proportion="0.6728972">
+          <folding />
         </state>
       </provider>
     </entry>
